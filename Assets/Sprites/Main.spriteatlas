@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Main
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 2120e63a0e53edf43ba6bf87106a926f, type: 3}
+    - {fileID: 2800000, guid: 5601b99c42ad6d24098e67ae815b2593, type: 3}
+    - {fileID: 2800000, guid: 2deb50d8c04ccc24a9d45a681a198e3c, type: 3}
+    - {fileID: 2800000, guid: 79cdd8f89031b2c4c85baecba5974a9d, type: 3}
+    - {fileID: 2800000, guid: f0522eedc53956444bf0b50f40040708, type: 3}
+    - {fileID: 2800000, guid: 684ecd444da9a894fbb7152aec1faa3d, type: 3}
+    - {fileID: 2800000, guid: ac18a8bac05193f4e8f2d3a36265269b, type: 3}
+    - {fileID: 2800000, guid: 0a5d36f665aa63343892363f8c2e4e02, type: 3}
+    - {fileID: 2800000, guid: f6bcbc00e0bf20546adcd4e3074f94fc, type: 3}
+    - {fileID: 2800000, guid: 65f07850b1102304990b17b7fbcc9d50, type: 3}
+    - {fileID: 2800000, guid: ae570bef4b7542f4da5a9bc44765c98f, type: 3}
+    - {fileID: 2800000, guid: ec5fe3f00436d06449550976da06ecdf, type: 3}
+    - {fileID: 2800000, guid: 521ae1156cefce74aa834c0ecc967c70, type: 3}
+    - {fileID: 2800000, guid: 0556799e431aec2458e989b009ce1075, type: 3}
+    - {fileID: 2800000, guid: bfa44ba621debe54b900d259bc9d1ce1, type: 3}
+    - {fileID: 2800000, guid: 13442e7274d9c0342a4d875a45ae1dc1, type: 3}
+    - {fileID: 2800000, guid: a8797631d6b746a4abde079b4945be81, type: 3}
+    - {fileID: 2800000, guid: 1c487e1f6a21ad24d9b1429cc34f1246, type: 3}
+    - {fileID: 2800000, guid: 604c5550b66df9e4a9bd9d2e13fe9e9a, type: 3}
+    totalSpriteSurfaceArea: 296592
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: f6bcbc00e0bf20546adcd4e3074f94fc, type: 3}
+  - {fileID: 21300000, guid: 604c5550b66df9e4a9bd9d2e13fe9e9a, type: 3}
+  - {fileID: 21300000, guid: 65f07850b1102304990b17b7fbcc9d50, type: 3}
+  - {fileID: 21300000, guid: ec5fe3f00436d06449550976da06ecdf, type: 3}
+  - {fileID: 21300000, guid: a8797631d6b746a4abde079b4945be81, type: 3}
+  - {fileID: 21300000, guid: 13442e7274d9c0342a4d875a45ae1dc1, type: 3}
+  - {fileID: 21300000, guid: 684ecd444da9a894fbb7152aec1faa3d, type: 3}
+  - {fileID: 21300000, guid: 521ae1156cefce74aa834c0ecc967c70, type: 3}
+  - {fileID: 21300000, guid: bfa44ba621debe54b900d259bc9d1ce1, type: 3}
+  - {fileID: 21300000, guid: 0a5d36f665aa63343892363f8c2e4e02, type: 3}
+  - {fileID: 21300000, guid: 2deb50d8c04ccc24a9d45a681a198e3c, type: 3}
+  - {fileID: 21300000, guid: 79cdd8f89031b2c4c85baecba5974a9d, type: 3}
+  - {fileID: 21300000, guid: 2120e63a0e53edf43ba6bf87106a926f, type: 3}
+  - {fileID: 21300000, guid: ac18a8bac05193f4e8f2d3a36265269b, type: 3}
+  - {fileID: 21300000, guid: 5601b99c42ad6d24098e67ae815b2593, type: 3}
+  - {fileID: 21300000, guid: f0522eedc53956444bf0b50f40040708, type: 3}
+  - {fileID: 21300000, guid: 0556799e431aec2458e989b009ce1075, type: 3}
+  - {fileID: 21300000, guid: 1c487e1f6a21ad24d9b1429cc34f1246, type: 3}
+  - {fileID: 21300000, guid: ae570bef4b7542f4da5a9bc44765c98f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - sprite_120
+  - sprite_193
+  - sprite_131
+  - sprite_133
+  - sprite_138
+  - sprite_137
+  - sprite_099
+  - sprite_134
+  - sprite_136
+  - sprite_119
+  - sprite_057
+  - sprite_097
+  - enemyFloating_1
+  - sprite_118
+  - sprite_014
+  - sprite_098
+  - sprite_135
+  - sprite_139
+  - sprite_132
+  m_Tag: Main
+  m_IsVariant: 0
